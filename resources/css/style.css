@@ -5,4 +5,5 @@ html {
 #home,
 h4 {
   background-image: url("images/the-flatiron-building.png");
+  color: white;
 }
